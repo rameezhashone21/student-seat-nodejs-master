@@ -1,0 +1,18 @@
+﻿{
+    "dbName": "db-studentseats-dev",
+    "dbConfig": {
+        "server": "dbs-studentseats.database.windows.net",
+        "options": {
+            "port": 1433,
+            "trustServerCertificate": true
+        },
+        "authentication": {
+            "type": "default",
+            "options": {
+                "userName": "APIDevs",
+                "password": "ap!d3vs$"
+            }
+        }
+    },
+    "secret": "testString"
+}
